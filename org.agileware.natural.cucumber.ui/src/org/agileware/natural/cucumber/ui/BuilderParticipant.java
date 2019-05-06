@@ -14,7 +14,7 @@ public class BuilderParticipant extends org.eclipse.xtext.builder.BuilderPartici
 		super.build(context, monitor);
 		if (!context.getResourceSet().getResources().isEmpty()) {
 			//TODO iterate over the resources to evict only those that have changed
-//			matcher.evict(null);
+			matcher.evict(null);
 		}
 	}
 }
