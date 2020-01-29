@@ -1,4 +1,5 @@
 Manifest-Version: 1.0
+Automatic-Module-Name: org.agileware.natural.common
 Bundle-ManifestVersion: 2
 Bundle-Name: Eclipse BDD Editors Common Library
 Bundle-SymbolicName: org.agileware.natural.common
