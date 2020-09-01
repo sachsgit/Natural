@@ -1,8 +1,8 @@
 Manifest-Version: 1.0
 Automatic-Module-Name: org.agileware.natural.jbehave; singleton:=true
 Bundle-ManifestVersion: 2
-Bundle-Name: org.agileware.natural.jbehave
-Bundle-Vendor: Roberto Lo Giacco
+Bundle-Name: %Bundle-Name
+Bundle-Vendor: %Bundle-Vendor
 Bundle-Version: 1.0.0.qualifier
 Bundle-SymbolicName: org.agileware.natural.jbehave; singleton:=true
 Bundle-ActivationPolicy: lazy

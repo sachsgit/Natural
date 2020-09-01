@@ -1,8 +1,8 @@
 Manifest-Version: 1.0
 Automatic-Module-Name: org.agileware.natural.cucumber.tests;singleton:=true
 Bundle-ManifestVersion: 2
-Bundle-Name: org.rlogiacco.eclipse.cucumber.tests
-Bundle-Vendor: My Company
+Bundle-Name: %Bundle-Name
+Bundle-Vendor: %Bundle-Vendor
 Bundle-Version: 1.0.0
 Bundle-SymbolicName: org.agileware.natural.cucumber.tests;singleton:=true
 Bundle-ActivationPolicy: lazy
